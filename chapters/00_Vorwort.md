@@ -1,4 +1,4 @@
-# Vorwort  des Verfassers. {#null .unnumbered}
+# Vorwort des Verfassers. {#null .unnumbered}
 
 ::: justified
 Dank der Initiative der kaiserlich russischen Geographischen Gesellschaft und
@@ -149,8 +149,6 @@ St. Petersburg, 1. Januar 1875.
 :::: align-right
 **N. Prschewalski.**
 ::::
-
-
 
 :::
 

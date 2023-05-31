@@ -1,6 +1,6 @@
 # Reisen in der Mongolei, im Gebiet der Tanguten und den Wüsten Nordtibets in den Jahren 1870 bis 1873
 
-<img align="right" height="150" src="https://github.com/kogo59/Reisen_in_der_Mongolei/assets/13177792/f38ec521-7e9b-4051-a285-a60f93b3b1c9">
+<img align="right" height="150" src="https://github.com/kogo59/Reisen_in_der_Mongolei/assets/13177792/2dda085b-f164-481a-8b77-5c4644823c7c">
 
 This is a git repository of the source files for the book "Reisen in der Mongolei, im Gebiet der Tanguten und den Wüsten Nordtibets in den Jahren 1870 bis 1873"
 
