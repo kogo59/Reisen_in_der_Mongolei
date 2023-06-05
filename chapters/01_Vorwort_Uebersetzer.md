@@ -1,4 +1,4 @@
-# Vorwort Übersetzers. {#nullnull .unnumbered}
+# Vorwort des Übersetzers. {#nullnull .unnumbered}
 
 ::: justified
 Central-Asien, von dem jetzt so häufig die Rede ist, gehört unstreitig mit zu
@@ -869,9 +869,37 @@ intimer werden wird.<br /><br />
 Wirkl. Mitglied der kais. Akklim. Ges. in Moskau. Bevollmächtigter<br />
 des Museums für Völkerkunde in Leipzig.
 ::::
-:::::
 
 :::
+
+
+#### Verzeichniß der Abbildungen und Tafeln. {#ABB .unnumbered  }
+
+* [Chinesisches Fuhrwerk](ch004.xhtml#b051) (Tafel)
+* [Götterbild der Mongolen](ch004.xhtml#b007) 
+* [Straße in Urga und Tempel](ch004.xhtml#b006) (Tafel)
+* [Allgemeine Ansicht der Stadt Urga](ch004.xhtml#b010) (Tafel)
+* Mongolische Jurte (Tafel)
+* Mongolisches Mädchen (Tafel)
+* Ruinen des kaiserliches Sommerpalastes (Tafel)
+* Auf der Hochebene Gobi (Tafel)
+* Mongolische Kavallerie
+* Mongolischer Infanterie
+* Ruinen der während eines Aufruhrs zerstörten Kapelle der barmherzigen Schwestern in Tientsin
+* Ein Kutuchta
+* Ein Lama zur Andacht gekleidet
+* Der Rhabarber (Tafel)
+* Der handblättrige medizinische Rhabarber.
+* Der zahme Yak
+* Russisches Militär in Urga während des Dunganenaufstandes im Sommer 1871 (Tafel)
+* Ein Tibetanischer Lama-Arzt
+* Mongolische Prinzessin
+* Der wilde Yak
+* Das Felsschaf
+* Hörner der Orongo-Antilope
+* Der Schneeadler
+* Mongolen im Gebet bei einem „Obo“ (Tafel)
+
 
 :::: align-center
 ****

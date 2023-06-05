@@ -75,7 +75,7 @@ von
 ::::
 
 :::: { .fs-l .align-center .break-after}
-**Jena**,<br />
+<br />**Jena**,<br />
 Hermann Costenoble.<br />
 **1877**
 ::::
