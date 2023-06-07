@@ -1,5 +1,5 @@
 :::: { .fs-l .align-center }
-<br /><br /><br /><br /><br /><br /><br /><br />
+<br /><br /><br /><br />
 N. v.  Prschewalski.
 ::::
 
@@ -11,7 +11,7 @@ Reisen in der Mongolei, im Gebiet der Tanguten
 :::: { .fs-l .align-center }
 <br />
 und den Wüsten Nordtibets.
-<br /><br /><br />
+<br /><br />
 ::::
 
 :::: {.wrap-10 .align-center .break-after }

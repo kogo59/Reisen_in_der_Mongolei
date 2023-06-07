@@ -865,7 +865,7 @@ intimer werden wird.<br /><br />
 ::::: align-right
 **Albin Kohn**
 :::::
-:::: { .fs-xs  .align-right}
+:::: { .fs-xs  .align-right .break-after }
 Wirkl. Mitglied der kais. Akklim. Ges. in Moskau. Bevollmächtigter<br />
 des Museums für Völkerkunde in Leipzig.
 ::::
@@ -879,8 +879,8 @@ des Museums für Völkerkunde in Leipzig.
 * [Götterbild der Mongolen](ch004.xhtml#b007) 
 * [Straße in Urga und Tempel](ch004.xhtml#b006) (Tafel)
 * [Allgemeine Ansicht der Stadt Urga](ch004.xhtml#b010) (Tafel)
-* Mongolische Jurte (Tafel)
-* Mongolisches Mädchen (Tafel)
+* [Mongolische Jurte](ch005.xhtml#b040)  (Tafel)
+* [Mongolisches Mädchen](ch005.xhtml#b060) (Tafel)
 * Ruinen des kaiserliches Sommerpalastes (Tafel)
 * Auf der Hochebene Gobi (Tafel)
 * Mongolische Kavallerie
