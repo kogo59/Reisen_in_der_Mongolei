@@ -881,9 +881,9 @@ des Museums für Völkerkunde in Leipzig.
 * [Allgemeine Ansicht der Stadt Urga](ch004.xhtml#b010) (Tafel)
 * [Mongolische Jurte](ch005.xhtml#b040)  (Tafel)
 * [Mongolisches Mädchen](ch005.xhtml#b060) (Tafel)
-* Ruinen des kaiserliches Sommerpalastes (Tafel)
-* Auf der Hochebene Gobi (Tafel)
-* Mongolische Kavallerie
+* [Ruinen des kaiserliches Sommerpalastes](ch007.xhtml#b120) (Tafel)
+* [Auf der Hochebene Gobi](ch007.xhtml#b152) (Tafel)
+* [Mongolische Kavallerie](ch008.xhtml#b190)
 * Mongolischer Infanterie
 * Ruinen der während eines Aufruhrs zerstörten Kapelle der barmherzigen Schwestern in Tientsin
 * Ein Kutuchta

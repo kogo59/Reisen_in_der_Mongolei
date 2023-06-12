@@ -1237,5 +1237,5 @@ Bergen gegen dreißig Specien blühender Pflanzen.
 
 [^0316]: [Die diesem Werke beigefügte Karte meines Marsches ist bedeutend kleiner als meine Originalkarte.]{.footnote}
 
-[^0317]: [Die mittlere Schnelligkeit eines beladenen Kameels beträgt, mit Berücksichtigung der Beschaffenheit der Gegend, 4-4½ Kilometer in der Stunde. In Gebirgen unterliegt diese Regelmäßigkeit einer bedeutenden Abweichung und hier muß man häufig zum Augenmaße seine Zuflucht nehmen, um die zurückgelegte Strecke zu bestimmen..]{.footnote}
+[^0317]: [Die mittlere Schnelligkeit eines beladenen Kameels beträgt, mit Berücksichtigung der Beschaffenheit der Gegend, 4-4½ Kilometer in der Stunde. In Gebirgen unterliegt diese Regelmäßigkeit einer bedeutenden Abweichung und hier muß man häufig zum Augenmaße seine Zuflucht nehmen, um die zurückgelegte Strecke zu bestimmen.]{.footnote}
 
