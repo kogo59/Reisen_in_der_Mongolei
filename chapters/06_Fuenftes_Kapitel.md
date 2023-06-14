@@ -331,7 +331,7 @@ nicht genommen werden kann, da den Verwegenen, der seine Hand danach ausstreckt,
 sogleich der Tod ereilen würde.
 
 Die zweite Legende sagt, daß Dschengis-chan, von seinen Feinden bedrängt, die
-Sandwüste Kusuptscha gemacht und dem Chuan-che einen andern Lanf gegeben hat, um
+Sandwüste Kusuptscha gemacht und dem Chuan-che einen andern Lauf gegeben hat, um
 sich hierdurch gegen feindliche Ueberfälle zu schützen.
 
 Es herrscht jedoch nicht in der ganzen Wüste Kusuptscha, welche nach Angabe der
