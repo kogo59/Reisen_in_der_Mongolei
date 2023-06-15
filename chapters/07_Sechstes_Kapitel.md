@@ -1,4 +1,4 @@
-# VI. Kapitel.<br />Ala-schan.</small> {#zehn .unnumbered }
+# VI. Kapitel.<br />Ala-schan. {#zehn .unnumbered }
 
 ::: justified
 
