@@ -44,7 +44,7 @@ Da ich wünschte, das linke Ufer des gelben Flusses und das Gebirge, welches hie
 sein Thal besäumt, kennen zu lernen, schlug ich meinen Weg durch das Gebiet der
 Uroten ein, das mit Ala-schan grenzt. Im nördlichen Theile des letzteren, gegen
 100 Kilometer von Dyn-juan-in, kamen wir an einen ungeheuren Salzsee, welcher
-von den Mongolen *Dscharatai—dabasu* genannt wird. Dieser See nimmt die am
+von den Mongolen *Dscharatai-dabasu* genannt wird. Dieser See nimmt die am
 niedrigsten gelegene Oertlichkeit von ganz Ala-schan ein, denn er liegt kaum
 1000 Meter über dem Meere. Der Dscharatai-dabasu hat einen Umfang von ungefähr
 50 Kilometer und ausgezeichnetes abgelagertes Salz liegt in einer Dicke von 60
@@ -100,7 +100,7 @@ auftreten, mit dem Scheiten-ula, also auch mit dem In-schan. Im Süden ist das
 hier beschriebene Gebirge durch Sandwüsten, die einige hundert Kilometer breit
 sind, vom Ala-schaner Rücken getrennt. Hier sei noch bemerkt, daß, wenn man als
 äußerste Südwestpunkte dieses Gebirges nicht die Chan-ula-Gruppe, sondern ihre
-hügelige Verlängerung im Westen des Sees Dscharatai-dabasn annimmt, seine
+hügelige Verlängerung im Westen des Sees Dscharatai-dabasu annimmt, seine
 allgemeine Länge gegen 370 Kilometer betragen würde.
 
 Wie das Kalganer Gebirge bildet auch der Chara-nariu-ula ein Randgebirge, d. h.

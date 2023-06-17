@@ -884,10 +884,9 @@ des Museums für Völkerkunde in Leipzig.
 * [Ruinen des kaiserliches Sommerpalastes](ch007.xhtml#b120) (Tafel)
 * [Auf der Hochebene Gobi](ch007.xhtml#b152) (Tafel)
 * [Mongolische Kavallerie](ch008.xhtml#b190)
-* [Mongolischer Infanterie](ch008.xhtml#b193)
-* [Ruinen der während eines Aufruhrs zerstörten Kapelle der barmherzigen Schwestern in Tientsin](ch009.xhtml#b190)
-* Mongolischer Infanterie
-* Ein Kutuchta
+* [Mongolischer Infanterist](ch008.xhtml#b193)
+* [Ruinen der während eines Aufruhrs zerstörten Kapelle der barmherzigen Schwestern in Tientsin](ch009.xhtml#b214)
+* [Ein Kutuchta](ch011.xhtml#b263)
 * Ein Lama zur Andacht gekleidet
 * Der Rhabarber (Tafel)
 * Der handblättrige medizinische Rhabarber.
