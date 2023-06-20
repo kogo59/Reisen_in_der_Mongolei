@@ -887,9 +887,9 @@ des Museums für Völkerkunde in Leipzig.
 * [Mongolischer Infanterist](ch008.xhtml#b193)
 * [Ruinen der während eines Aufruhrs zerstörten Kapelle der barmherzigen Schwestern in Tientsin](ch009.xhtml#b214)
 * [Ein Kutuchta](ch011.xhtml#b263)
-* Ein Lama zur Andacht gekleidet
-* Der Rhabarber (Tafel)
-* Der handblättrige medizinische Rhabarber.
+* [Ein Lama zur Andacht gekleidet](ch012.xhtml#b292)
+* [Der Rhabarber](ch012.xhtml#b302) (Tafel)
+* [Der handblättrige medizinische Rhabarber](ch012.xhtml#b303)
 * Der zahme Yak
 * Russisches Militär in Urga während des Dunganenaufstandes im Sommer 1871 (Tafel)
 * Ein Tibetanischer Lama-Arzt

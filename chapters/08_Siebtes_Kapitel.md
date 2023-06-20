@@ -26,10 +26,8 @@ wir ohne Aufenthalt zurücklegen mußten. Indessen nahte der Winter mit seinen
 heftigen Frösten und Stürmen, die in dieser Jahreszeit in der Mongolei ganz
 gewöhnliche Erscheinungen sind. Um das Maß der Uebel zu füllen, erkrankte auch
 noch mein Reisegefährte Michael Alexandrowitsch Pylzow kurz nachdem wir
-Dyn-juan-in
-
-verlassen hatten, so heftig am Typhus, daß wir genöthigt waren, neun Tage an der
-Quelle *Chara-morite*, im nördlichen Ala-schan, zu ruhen.
+Dyn-juan-in verlassen hatten, so heftig am Typhus, daß wir genöthigt waren, neun
+Tage an der Quelle *Chara-morite*, im nördlichen Ala-schan, zu ruhen.
 
 Die Lage meines Gefährten war um so gefährlicher, als wir durchaus keine
 medizinische Hülfe hatten, und wenn wir auch Arzeneimittel mit uns führten, so
