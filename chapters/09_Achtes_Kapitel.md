@@ -7,7 +7,7 @@ Ausrüstung für die zweite Reise. — Frische Kasaken. — März und April im
 südöstlichen Grenzstriche der Mongolei. — Ala-schan im Frühlinge. —
 Schwierigkeiten seitens des Fürsten von Ala-schan gegen unsere Weiterreise. —
 Tangutenkarawane, mit welcher wir nach Gan-su reisten. — Charakter von
-Süd-Ala-schan. — Die große Mauer und die Stadt Dadschin.
+Süd-Ala-schan. — Die große Mauer und die Stadt Dadschin.<br /><br />
 ::::
 
 Einige Tage nach unserer Rückkehr nach Kalgan reiste ich nach Peking, um mich

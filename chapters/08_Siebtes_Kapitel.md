@@ -7,7 +7,7 @@ Erkranken meines Reisegefährten. — Der Salzsee Dscharatai-dabasu. Die Bergket
 Chara-narin-ula. — Charakteristik der Dunganen. — Das Thal am linken User des
 gelben Flusses. — Schwierigkeiten der Reise im Winter. — Verschwinden unserer
 Kameele. — Unfreiwilliger Aufenthalt beim Kloster Schyrety-dsu. — Ankunft in
-Kalgan.
+Kalgan.<br /><br />
 ::::
 
 Am Morgen des 15. October verließen wir Dyn-juan-in, um die Rückreise nach

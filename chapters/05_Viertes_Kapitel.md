@@ -10,7 +10,7 @@ Feindschaft und Hinterlist der Chinesen. — Gebirgszug In-Schan. — Kloster
 Battar-Scheitun. — Die Bergantilope. — Gebirge Muni-ulla. — Wald- und
 Alpenregion. — Legende über die Entstehung dieses Gebirges. Unser
 vierzehntägiger Aufenthalt in demselben. —  Besuch der Stadt Bautu. —
-Ueberfahrt über den Chuanche nach Ordos.
+Ueberfahrt über den Chuanche nach Ordos.<br /><br />
 ::::
 
 Der zweimonatliche Aufenthalt im südöstlichen Winkel der Mongolei verschaffte

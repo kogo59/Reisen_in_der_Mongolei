@@ -5,7 +5,7 @@
 :::: fs-xs
 Aeußeres, Kleidung und Wohnung. — Ihr tägliches Leben, Charakter, Sprache und
 Sitten. — Glauben und Aberglauben. — Administrative Eintheilung und Verwaltung
-der Mongolei.
+der Mongolei.<br /><br />
 ::::
 
 Dieses Kapitel ist der ethnographischen Beschreibung der Mongolei zu dem Zwecke

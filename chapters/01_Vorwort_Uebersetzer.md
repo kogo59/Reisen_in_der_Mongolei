@@ -890,7 +890,7 @@ des Museums für Völkerkunde in Leipzig.
 * [Ein Lama zur Andacht gekleidet](ch012.xhtml#b292)
 * [Der Rhabarber](ch012.xhtml#b302) (Tafel)
 * [Der handblättrige medizinische Rhabarber](ch012.xhtml#b303)
-* Der zahme Yak
+* [Der zahme Yak](ch012.xhtml#b341)
 * Russisches Militär in Urga während des Dunganenaufstandes im Sommer 1871 (Tafel)
 * Ein Tibetanischer Lama-Arzt
 * Mongolische Prinzessin

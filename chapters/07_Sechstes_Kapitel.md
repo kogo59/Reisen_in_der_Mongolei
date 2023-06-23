@@ -8,7 +8,7 @@ Reise durch den Norden von Ala-schan. — Die Stadt Dyn-juan-in. — Der Fürst 
 Ala-schan und seine Söhne. — Der Lama Baldyn-sordschi. — Verkauf unserer Waaren.
 — Der jetzige Dalai- Lama. — Prophezeiung über das Land Schambalin. —
 Staatsaudienz beim Fürsten von Ala-schan. — Der Ala-schaner Gebirgsrücken. —
-Jagd auf Kuku-jämane. — Ursache unserer Rückkehr nach Kalgan.
+Jagd auf Kuku-jämane. — Ursache unserer Rückkehr nach Kalgan.<br /><br />
 ::::
 
 Der südliche Theil der Hochebene Gobi, westlich vom mittlern Laufe des

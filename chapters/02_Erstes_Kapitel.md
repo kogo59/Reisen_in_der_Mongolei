@@ -8,7 +8,7 @@ Kiachta. — Die Gegend bis Urga. — Beschreibung dieser Stadt. — Die Wüste 
 Ihr Charakter. — Die Vögel und Säugethiere der Wüste. — Das Gebiet der Zacharen.
 — Das Randgebirge der mongolischen Hochebene. — Die Stadt Kalgau. —
 Theekarawanen. — Die große Mauer. — Erste Bekanntschaft mit den Chinesen. —
-Reise nach Peking.
+Reise nach Peking.<br /><br />
 ::::
 
 Im Anfange November 1870 kam ich und mein junger Begleiter Michael

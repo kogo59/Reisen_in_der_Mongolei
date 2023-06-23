@@ -9,7 +9,7 @@ Flora und Fauna. — Unser Sommeraufenthalt in diesem Gebirge. — Die Berge
 Sodi-Soruksum und Gadschur. Der See Djemtschul — Der gefährliche Aufenthalt bei
 Tscheibsen. Vorbereitung zur Reise nach Kuku-nor. — Reise nach Mur-sasaka. Der
 Charakter des Bassins der obern Tetung-gol. — Wir sind an den Ufern des
-Kuku-nor.
+Kuku-nor.<br /><br />
 ::::
 
 Am Morgen des 2. Juni verließen wir Dadschin und bestiegen an demselben Tage das
@@ -757,7 +757,7 @@ im Sommer folgende Pflanzen in voller Blüthe getroffen werden: die *Aster*
 verschiedene Specien *Hahnenfuß* (Ranunculus), Oxytropis und *Gänsefingerkraut*
 (Potentilla).
 
-Eine Species der letztern und zwar unser gewöhnlicher *Gänsefuß+ (Potentilla
+Eine Species der letztern und zwar unser gewöhnlicher *Gänsefuß* (Potentilla
 anscrina), welche in jener Gegend *„Dschuma“* genannt wird, liefert ein eßbares
 Würzelchen, nach welchem die Chinesen und Tanguten im Frühlinge und Herbste
 graben. Die ausgegrabenen Wurzeln werden gewaschen und getrocknet; später kocht

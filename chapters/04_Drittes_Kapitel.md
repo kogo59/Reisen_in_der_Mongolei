@@ -8,7 +8,7 @@ Geldmittel. — Unbequemlichkeit des chinesischen Geldes. — Charakter des
 mongolischen Bergrandes im Norden von Peking. — Die Stadt Dolon-nor. — Die
 Sandhügel von Gutschin-gurbu. — Steppenbrand. — Der See Dalai-nor. — Vermessung.
 — Der Weg von Dolon-nor nach Kalgan. Weide des Bogdo-Chans. — Frühlingsklima. —
-Beschreibung des Kameels.
+Beschreibung des Kameels.<br /><br />
 ::::
 
 *Peking*, oder, wie es die Chinesen nennen, Bej-tzsin^[^0300]^, war der Ausgangspunkt

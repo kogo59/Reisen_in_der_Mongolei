@@ -8,7 +8,7 @@ Beschreibung des Nordbogens des Chuan-che. — Charakter des Flußthals. — Die
 Sandwüste Kusuptscha. — Aufenthalt am See Zaidemin-nor. — Mongolische Legende
 von Dschengis-Chan. — Weiterreise. — Die Chara-sulta-Antilope. — Das Kloster
 Schara-dsu. — Verwildertes Rindvieh. — Gewöhnliche Ordnung unserer
-Karawanenreisen. — Das Arbus-ullagebirge. — Ereigniß in der Stadt Dyn-chu.
+Karawanenreisen. — Das Arbus-ullagebirge. — Ereigniß in der Stadt Dyn-chu.<br /><br />
 ::::
 
 Ordos^[^0500]^ wird die Gegend genannt, welche innerhalb des Bogens liegt, den der gelbe
