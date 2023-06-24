@@ -891,9 +891,9 @@ des Museums für Völkerkunde in Leipzig.
 * [Der Rhabarber](ch012.xhtml#b302) (Tafel)
 * [Der handblättrige medizinische Rhabarber](ch012.xhtml#b303)
 * [Der zahme Yak](ch012.xhtml#b341)
-* Russisches Militär in Urga während des Dunganenaufstandes im Sommer 1871 (Tafel)
-* Ein Tibetanischer Lama-Arzt
-* Mongolische Prinzessin
+* [Russisches Militär in Urga während des Dunganenaufstandes im Sommer 1871](ch012.xhtml#b352) (Tafel)
+* [Ein Tibetanischer Lama-Arzt](ch013.xhtml#b376)
+* [Mongolische Prinzessin](ch013.xhtml#b382)
 * Der wilde Yak
 * Das Felsschaf
 * Hörner der Orongo-Antilope

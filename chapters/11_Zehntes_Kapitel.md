@@ -164,9 +164,9 @@ Folgendes sind die tangutischen Worte, welche ich zu verzeichnen vermochte:
 |Die Fledermaus|*Panaa*|
 |Der Springhase|*Rchtälu*|
 |Der Hase|*Rugun*|
-|Der Pfeifhase|*Bischschaa| Dschaksüm*|
+|Der Pfeifhase|*Bischschaa/Dschaksüm*|
 |Die Maus|*Charda*|
-|Der Bobak| [Arctomys Bobac]|*Schoo*|
+|Der Bobak| [Arctomys Bobac] *Schoo*|
 |Die Dserenantilope|*Hoo*|
 |Das Moschusthier|*Laa*|
 |Der Steinbock|*Kascha*|
@@ -363,7 +363,7 @@ Häuschen, eine Fansa, die Stelle des schwarzen Zeltes; es ist dies jedoch nur
 dort der Fall, wo die Tanguten mit den Chinesen vermischt leben und sich wie
 diese mit Ackerbau beschäftigen. Das Aeußere dieser hölzernen Häuschen der
 Tanguten erinnert lebhaft an die Rauchhütten [Kurnye chaty] der Weißreußen (im
-Gonvernement Mohilew, Minsk u. A.), doch sind die Häuschen der Tanguten noch
+Gouvernement Mohilew, Minsk u. A.), doch sind die Häuschen der Tanguten noch
 elender gebaut. Einen Bretterfußboden findet man in diesen Wohnungen nicht und
 selbst die Wände sind nicht behauen, sondern aus rohen Baumstämmen aufgeführt,
 die auf einander gelegt werden. Die etwaigen Zwischenräume zwischen den Balken
@@ -1001,9 +1001,6 @@ ein allgemeines Menschenschlachten stattgefunden hat. Ueber die weiteren
 Unternehmungen der Chinesen ist bis jetzt nichts Näheres bekannt; jedenfalls
 haben sie jetzt eine schwierigere Aufgabe zu lösen — es ist der Kampf gegen
 Jakub-Bek^[^1001]^ von Kaschgar.
-
-
-
 
 :::
 
