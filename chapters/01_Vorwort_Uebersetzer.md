@@ -894,9 +894,9 @@ des Museums für Völkerkunde in Leipzig.
 * [Russisches Militär in Urga während des Dunganenaufstandes im Sommer 1871](ch012.xhtml#b352) (Tafel)
 * [Ein Tibetanischer Lama-Arzt](ch013.xhtml#b376)
 * [Mongolische Prinzessin](ch013.xhtml#b382)
-* Der wilde Yak
-* Das Felsschaf
-* Hörner der Orongo-Antilope
+* [Der wilde Yak](ch014.xhtml#b382)
+* [Das Felsschaf](ch014.xhtml#b418)
+* [Hörner der Orongo-Antilope](ch014.xhtml#b441)
 * Der Schneeadler
 * Mongolen im Gebet bei einem „Obo“ (Tafel)
 

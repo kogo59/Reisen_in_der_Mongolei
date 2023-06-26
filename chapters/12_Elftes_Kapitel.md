@@ -9,7 +9,7 @@ Gegend. — Administrative Eintheilung von Kuku-nor. — Unsere Zusammenkunst mi
 dem tibetanischen Abgesandten. — Erzählungen vom Kloster Gumbum. — Der Fluß
 Buchain-gol. — Der Südrücken von Kuku-nor. — Der Salzsee Dalai-dabassu. — Man
 hält mich für einen Heiligen und Doctor. — Zaidam. — Nachrichten über wilde
-Kameele und Pferde. — Reise bis an die Grenze von Tibet. — <br /><br />
+Kameele und Pferde. — Reise bis an die Grenze von Tibet. <br /><br />
 ::::
 
 Der See *Kuku-nor*^[^1100]^, von den Tanguten *Zock-gumbum* und von den Chinesen Zin-chai
