@@ -897,7 +897,7 @@ des Museums für Völkerkunde in Leipzig.
 * [Der wilde Yak](ch014.xhtml#b382)
 * [Das Felsschaf](ch014.xhtml#b418)
 * [Hörner der Orongo-Antilope](ch014.xhtml#b441)
-* Der Schneeadler
+* [Der Schneeadler](ch015.xhtml#b456)
 * Mongolen im Gebet bei einem „Obo“ (Tafel)
 
 
