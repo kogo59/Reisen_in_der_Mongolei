@@ -898,7 +898,7 @@ des Museums für Völkerkunde in Leipzig.
 * [Das Felsschaf](ch014.xhtml#b418)
 * [Hörner der Orongo-Antilope](ch014.xhtml#b441)
 * [Der Schneeadler](ch015.xhtml#b456)
-* Mongolen im Gebet bei einem „Obo“ (Tafel)
+* [Mongolen im Gebet bei einem „Obo“](ch016.xhtml#b482) (Tafel)
 
 
 :::: align-center
