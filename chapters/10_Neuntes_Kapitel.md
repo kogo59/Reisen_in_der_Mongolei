@@ -6,8 +6,8 @@
 Die Reise von Dadschin nach Kloster Tscheibsen. — Beschreibung dieses Klosters.
 — Das Volk der Dalden. — Das Gebirge von Gan-su. Skizze seines Klimas, seiner
 Flora und Fauna. — Unser Sommeraufenthalt in diesem Gebirge. — Die Berge
-Sodi-Soruksum und Gadschur. Der See Djemtschul — Der gefährliche Aufenthalt bei
-Tscheibsen. Vorbereitung zur Reise nach Kuku-nor. — Reise nach Mur-sasaka. Der
+Sodi-Soruksum und Gadschur. Der See Djemtschul. — Der gefährliche Aufenthalt bei
+Tscheibsen. — Vorbereitung zur Reise nach Kuku-nor. — Reise nach Mur-sasaka. — Der
 Charakter des Bassins der obern Tetung-gol. — Wir sind an den Ufern des
 Kuku-nor.<br /><br />
 ::::

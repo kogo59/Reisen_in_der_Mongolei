@@ -7,7 +7,7 @@ Die Ausrüstung der Expedition in Peking. — Die Beschränktheit unserer
 Geldmittel. — Unbequemlichkeit des chinesischen Geldes. — Charakter des
 mongolischen Bergrandes im Norden von Peking. — Die Stadt Dolon-nor. — Die
 Sandhügel von Gutschin-gurbu. — Steppenbrand. — Der See Dalai-nor. — Vermessung.
-— Der Weg von Dolon-nor nach Kalgan. Weide des Bogdo-Chans. — Frühlingsklima. —
+— Der Weg von Dolon-nor nach Kalgan. —  Weide des Bogdo-Chans. — Frühlingsklima. —
 Beschreibung des Kameels.<br /><br />
 ::::
 
