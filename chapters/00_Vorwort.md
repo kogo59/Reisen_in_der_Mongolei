@@ -163,7 +163,7 @@ St. Petersburg, 1. Januar 1875.
 
 [^0002]: [*K. J. Maximowitsch*: vergleiche [Karl Johann Maximowicz](https://de.wikipedia.org/wiki/Karl_Johann_Maximowicz)]{.footnote}
 
-[^0003]: [*A. A. Inostranzew*: vergleiche [Alexander Alexandrowitsch Inostranzew](hhttps://de.wikipedia.org/wiki/Alexander_Alexandrowitsch_Inostranzew)]{.footnote}
+[^0003]: [*A. A. Inostranzew*: vergleiche [Alexander Alexandrowitsch Inostranzew](https://de.wikipedia.org/wiki/Alexander_Alexandrowitsch_Inostranzew)]{.footnote}
 
 [^0004]: [*W. K. Taczanowski*: vergleiche [Władysław Taczanowski](https://de.wikipedia.org/wiki/W%C5%82adys%C5%82aw_Taczanowski_(Zoologe))]{.footnote}
 

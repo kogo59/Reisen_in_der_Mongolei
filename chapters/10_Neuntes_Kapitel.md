@@ -1223,7 +1223,7 @@ näherte sich übrigens nicht nur in der Alpenregion, sondern überhaupt im
 Gebirge, ihrem Ende, so daß von der ganzen während des Sommers gesammelten Zahl
 von Pflanzen auf den August nur 40 Specien kommen.
 
-Der Gipfel des Gadschur besteht aus ungeheuren, unzugänglichen Felsen, zwischen
+<a id="S317"></a>Der Gipfel des Gadschur besteht aus ungeheuren, unzugänglichen Felsen, zwischen
 denen ein kleiner See, der *Djemtschuk*, liegt. (Etwas niedriger als dieser
 liegt jedoch noch einer, der aber bedeutend kleiner ist.) Der Djemtschuk ist
 hundert Klafter lang und gegen fünfunddreißig Klafter breit; der Zugang ist nur
@@ -1238,7 +1238,7 @@ umher schwamm und endlich wieder in seine Tiefe tauchte. Seit dieser Zeit hat
 das Ansehen des Sees in den Augen der Tanguten, welche in der Gegend wohnen,
 noch bedeutend zugenommen.
 
-Der Dijemtschuk liegt in einer absoluten Höhe von 3083,42 Meter und seine Lage
+Der Djemtschuk liegt in einer absoluten Höhe von 3083,42 Meter und seine Lage
 ist wirklich bemerkenswerth. Eine enge Felsenspalte, ein ruhiger heller Spiegel,
 der von allen Seiten von riesigen Felsen umgeben ist, zwischen denen man kaum
 einen kleinen Streifen des Himmels sieht, endlich die Grabesstille, welche nur
@@ -1260,7 +1260,7 @@ stürzte. (Es ist eigenthümlich, daß in den Sagen der Tanguten und der Russen
 dieses Ereignisses wurde die Jagd auf dem Sodi-Soruksum und andern heiligen
 Bergen (Amne) streng verboten.
 
-Ueber den Gadschur lebt im Munde des tangutischen Volkes noch eine Sage. Nach
+<a id="S318"></a>Ueber den Gadschur lebt im Munde des tangutischen Volkes noch eine Sage. Nach
 dieser hat ein Dalai-Lama diesen Berg aus Tibet dahin gesendet, un den Bewohnern
 zu zeigen, was für riesige Berge in seinem heiligen Lande existiren.
 

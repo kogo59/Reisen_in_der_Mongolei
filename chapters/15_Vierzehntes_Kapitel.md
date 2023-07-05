@@ -1,4 +1,4 @@
-# XIV. Kapitel.<br />Rückkehr nach Ala-schan. Reise nach Urga durch die Wüste Gohi. {#achtzehn .unnumbered }
+# XIV. Kapitel.<br />Rückkehr nach Ala-schan. Reise nach Urga durch die Wüste Gobi. {#achtzehn .unnumbered }
 
 ::: justified
 

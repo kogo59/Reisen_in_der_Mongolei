@@ -678,7 +678,7 @@ Ertheilen von Segen, Wahrsagen und andern unsinnigen Forderungen entziehen.
 Tanguten wie Mongolen kamen oft haufenweise herbei, nicht allein um uns, sondern
 auch um unsere Waffen anzubeten, und die Fürsten der Gegend brachten ihre Kinder
 zu mir und baten mich, ihnen meine Hände aufzulegen und sie so fürs ganze Leben
-zu segnen. Als wir nach DulanKit kamen, versammelte sich ein Haufe von ungefähr
+zu segnen. Als wir nach Dulan-Kit kamen, versammelte sich ein Haufe von ungefähr
 zweihundert Menschen, welche zu uns beteten und hierbei am Wege niederknieten.
 
 Vor denen, welche die Zukunft erfahren wollten, war es unmöglich zu entfliehen.
@@ -694,10 +694,12 @@ Choschunate, zu uns mit der Bitte, sie gegen die Anfälle der Chara-Tanguten zu
 schützen und den letzteren anzubefehlen, ihnen das geraubte Vieh zurück zu
 geben.
 
+<a id="b382"></a>
+
 |||
 | --- | --- |
-|<img src="Reisen_in_der_Mongolei_382a.jpg" alt="Mongolische Prinzessin von vorne." style="width:200px;display:block; margin-left:auto;margin-right:auto">|<img src="Reisen_in_der_Mongolei_382b.jpg" alt="Mongolische Prinzessin von hinten." style="width:200px;display:block; margin-left:auto;margin-right:auto">|
-|Mongolische Prinzessin von vorne.|Mongolische Prinzessin von hinten. (Nach einer Photographie des Barons von Osten-Sacken.)|{#b382a}
+|![](Reisen_in_der_Mongolei_382a.jpg "Mongolische Prinzessin von vorne."){.wrap-50}|![](Reisen_in_der_Mongolei_382b.jpg "Mongolische Prinzessin von hinten."){.wrap-50}
+|Mongolische Prinzessin von vorne.|Mongolische Prinzessin von hinten. (Nach einer Photographie des Barons von Osten-Sacken.)| 
 
 
 Der Nymbus unseres Namens übersteigt jeden Glauben. So z. B. ließen wir beim
@@ -913,7 +915,7 @@ auch nicht vermehren können. Es entsteht jedoch wiederum die Frage, ob das zahm
 Kameel, wenn es einige Jahre in Freiheit lebt, nicht wiederum zur selbständigen
 Paarung befähigt wird.
 
-Wilde Pferde, von den Mongolen *Dserlik-adu*, d. h. „wilder Tabun“ (Herde]
+Wilde Pferde, von den Mongolen *Dserlik-adu*, d. h. „wilder Tabun“ [Herde]
 genannt, trifft man nur sehr selten in West-Zaidam; dafür aber leben sie in sehr
 zahlreichen Herden am See Lob-nor. Nach den Mittheilungen unserer Gewährsmänner
 leben diese Pferde gewöhnlich in großen Herden und sind ungemein vorsichtig, so
@@ -933,7 +935,7 @@ ungeheuren Sees vorhanden ist.
 Seit unserer Abreise vom Gan-su-Gebirge, d. i. von der Mitte Octobers und
 während des ganzen Novembers, hatten wir das herrlichste Herbstwetter und
 größtentheils helle Tage. Wenngleich die Nachtfröste immer bedeutend waren (im
-October bis — 23,6° C. und im November bis — 25,2° C.), so war es doch am Tage
+October bis —23,6° C. und im November bis —25,2° C.), so war es doch am Tage
 immer warm, wenn sich die Sonne nicht hinter einer Wolke verbarg. Bei meinen
 Beobachtungen bemerkte ich erst am 28. November Nachmittags 1 Uhr, daß das
 Thermometer unter Null gesunken war. Die Sonne wurde jedoch nur sehr selten von
@@ -997,6 +999,7 @@ wir Tschutum-Dsamba eine Belohnung für treue Erfüllung seiner Pflichten. Am
 folgenden Tage traten wir die Reise nach Tibet mit dem Entschlusse an, diese
 unbekannte Gegend wenn auch nur bis an den obern Lauf des blauen Flusses zu
 untersuchen.
+
 
 :::
 

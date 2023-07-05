@@ -986,7 +986,7 @@ auszuhorchen verstehen, liegt in der Natur der Sache. Uebrigens lügen diese
 Leutchen sich so in ihre Macht, Größe und Wissenschaft hinein, daß sie selbst
 innigst an ihre übernatürliche Kraft und Wissenschaft glauben.
 
-Ein Begräbniß der Leiche des verstorbenen Mongolen findet nicht statt; sie wird
+<a id="S69"></a>Ein Begräbniß der Leiche des verstorbenen Mongolen findet nicht statt; sie wird
 aus der Jurte geworfen den wilden Vierfüßern und Raubvögeln zu willkommener
 Nahrung. Die Lamas geben nur für Bezahlung die Himmelsgegend an, in welche der
 Kopf zu liegen kommen soll. Nur die Leichen der Fürsten und wichtigeren Lamas
@@ -1011,7 +1011,7 @@ Lehre predigt bekanntlich die höchsten moralischen Grundsätze; trotzdem hat si
 den Mongolen nicht gelehrt, in jedem Menschen seinen Bruder zu erblicken und
 Mitleid selbst mit dem Feinde zu haben.
 
-Nehmen wir ferner die Art der Todtenbestattung; die Leichen werden nicht
+<a id="S70"></a>Nehmen wir ferner die Art der Todtenbestattung; die Leichen werden nicht
 begraben, sondern den Vögeln und wilden Thieren zum Verzehren hingeworfen. Ein
 Anblick, wie ihn jeder Reisende in der Nähe von Urga hat, wo Krähen und Hunde
 alle Tage hunderte Leichen verzehren, kann selbst den rohesten Menschen

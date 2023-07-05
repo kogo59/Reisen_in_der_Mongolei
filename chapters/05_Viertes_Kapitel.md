@@ -1,4 +1,4 @@
-# IV. Kapitel.<br />Der Südostrand der mongolischen Hochebene.<br /> <small>(Fortsetzung.)</small> {#acht .unnumbered }
+# IV. Kapitel.<br />Der Südostrand der mongolischen Hochebene.<br /><small>(Fortsetzung.)</small> {#acht .unnumbered }
 
 ::: justified
 

@@ -1,4 +1,4 @@
-# V. Kapitel.<br />Ordos.</small> {#neun .unnumbered }
+# V. Kapitel.<br />Ordos. {#neun .unnumbered }
 
 ::: justified
 
