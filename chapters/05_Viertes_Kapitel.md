@@ -172,7 +172,7 @@ sein Abhang durch einen deutlichen Strich steiler Felsen bezeichnet ist. Die
 Breite des Rückens beträgt da, wo wir ihn überschritten haben, gegen sieben und
 zwanzig Tagereisen und seine Hauptrichtung ist eine südwest-nordöstliche.
 
-Auf dem nicht breiten südöstlichen Abhange des Schara—chada findet man
+Auf dem nicht breiten südöstlichen Abhange des Schara-chada findet man
 Sträucher, unter denen: die *Haselnuß* (Ostryopsis Davidiana), die *Hagebutte*
 (Rosa pimpinellisolia), der *wilde Persico* (Prunus sp.) und die *Spierstaude*
 (Spirea sp.) überwiegen. Etwas seltener findet man die *Berberitze* (Berberis
@@ -600,7 +600,7 @@ zeigte ihm schmunzelnd das Silber, drückte die Finger im Aermel und einigte sic
 endlich auf 1500 Tschoch für den Lau. Diese Zahl würde ich erhalten haben, wenn
 man nach dem „Mantschan“, d. h. Eins für Eins, gerechnet hätte. Man rechnet aber
 in Zagan-tschulutai nach dem „Dselen“ und giebt 60 Stück für 100. Dieses war
-seit Dolon—nor schon die vierte oder fünfte Art der Berechnung.
+seit Dolon-nor schon die vierte oder fünfte Art der Berechnung.
 
 Die ausgezeichueten Weiden, welche wir überall im Lande der Zacharen gefunden
 haben, endeten mit den Sunia-chadarücken, so daß weiterhin unsere Pferde und

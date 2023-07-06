@@ -333,7 +333,7 @@ Schochoin-daban überschritten, einen höhern Strich der mongolischen Hochebene,
 wo wiederum starke Fröste herrschten. Bei Sonnenaufgang erreichte die Kälte eine
 Höhe von —32,7° C. und mit ihr verbanden sich oft starke Winde, ja manchmal auch
 Schneewehen. Alles dieses fand fast in derselben Gegend statt, wo uns im Sommer
-eine Hitze von ＋37,0° C. gequält hatte. Man sieht, daß der Reisende, welcher
+eine Hitze von +37,0° C. gequält hatte. Man sieht, daß der Reisende, welcher
 die innerasiatischen Wüsten besucht, einmal brennende Hitze, ein anderes Mal
 wieder eine wahrhaft sibirische Kälte zu ertragen hat, und dabei ist der
 Uebergang von einer zur andern ungemein plötzlich und unvermittelt.

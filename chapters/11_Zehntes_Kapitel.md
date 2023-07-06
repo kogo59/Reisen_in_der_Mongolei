@@ -319,18 +319,17 @@ den Aermel; dieser Arm und der entsprechende Theil der Brust bleiben immer
 nackt. Dieser Angewohnheit entsagt man sogar nicht während der Reise, wenn diese
 während schönen Wetters stattfindet.
 
-Wenn ein Tangute sich durch Eleganz auszeichnen will,
-
-verbrämt er seinen Rock mit Dachsfell, welches aus Tibet herbeigeschafft wird;
-außerdem trägt man im linken Ohre einen großen silbernen Ohrring, der mit einem
-großen rothen Granat geschmückt ist. Ferner gehören ein Feuerstahl und ein
-Messer im Gürtel auf dem Rücken, ein Tabaksbeutel und eine Tabakspfeife an der
-linken Seite zu den unbedingt nothwendigen Theilen des Kostüms. In Kuku-nor und
-Zaidam tragen alle Tanguten, ebenso wie die Mongolen, im Gurte einen langen und
-breiten tibetanischen Säbel. Das Eisen, aus denen diese Säbel gefertigt sind,
-ist sehr schlecht, trotzdem der Preis der Waffe ein sehr hoher ist; für die
-einfachste Klinge werden drei oder vier Lan gezahlt und eine etwas bessere
-Klinge kostet bis gegen fünfzehn Lan.
+Wenn ein Tangute sich durch Eleganz auszeichnen will, verbrämt er seinen Rock
+mit Dachsfell, welches aus Tibet herbeigeschafft wird; außerdem trägt man im
+linken Ohre einen großen silbernen Ohrring, der mit einem großen rothen Granat
+geschmückt ist. Ferner gehören ein Feuerstahl und ein Messer im Gürtel auf dem
+Rücken, ein Tabaksbeutel und eine Tabakspfeife an der linken Seite zu den
+unbedingt nothwendigen Theilen des Kostüms. In Kuku-nor und Zaidam tragen alle
+Tanguten, ebenso wie die Mongolen, im Gurte einen langen und breiten
+tibetanischen Säbel. Das Eisen, aus denen diese Säbel gefertigt sind, ist sehr
+schlecht, trotzdem der Preis der Waffe ein sehr hoher ist; für die einfachste
+Klinge werden drei oder vier Lan gezahlt und eine etwas bessere Klinge kostet
+bis gegen fünfzehn Lan.
 
 Die Frauen tragen, wie oben gesagt, ganz dieselbe Kleidung, wie die Männer; zum
 Staate tragen sie jedoch ein breites Handtuch, das mit weißen Spitzen von einer

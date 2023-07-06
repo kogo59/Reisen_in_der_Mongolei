@@ -185,7 +185,7 @@ nur eine geringe Anzahl von Schwimmvögel. Namentlich fanden wir noch: *Gänse*
 cristata), *Seeraben* (Phalacrocorax carbo) und *Möven* (Larus ichtyaötus und L.
 ridibundus). Für diesmal nahmen wir an, daß der Herbstzug schon vorüber sei,
 unsere im Frühlinge des folgenden Jahres gemachten Beobachtungen überzeugten uns
-jedoch, daß der See Kuku-nor sehr arm an Schwimm- und Sumpfpögel ist.
+jedoch, daß der See Kuku-nor sehr arm an Schwimm- und Sumpfvögel ist.
 
 Von Raubvögeln kommen alle Tage *Adler* und *Lämmergeier* an die Ufer des
 Kuku-nor nach Beute und in den Steppen selbst trifft man *Bussarde* (Buteo

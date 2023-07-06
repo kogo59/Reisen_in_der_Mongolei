@@ -614,7 +614,7 @@ Taschennotizbuche annähernd in der entsprechenden Richtung eine Linie, schrieb
 am Ende derselben die Zahl der Grade und die Zahl, welche die Nummer des
 Abschnittes bezeichnete. Nun folgte ich der Karawane und zeichnete die Gegend am
 Wege nach dem Augenmaße, wobei ich nur die wichtigern Punkte mittelst der
-Bussole bestimmte. Wenn die Anfangs eingeschlagene Richtnng des Weges sich
+Bussole bestimmte. Wenn die Anfangs eingeschlagene Richtung des Weges sich
 änderte, so berechnete ich nach der Zeit die Zahl der zurückgelegten
 Kilometer.^[^0317]^ notirte sie im Buche gegenüber der Zahl, welche den Abschnitt
 bezeichnete und visirte hierauf in der neuen Richtung. Es war häufig schwierig,
@@ -623,7 +623,7 @@ diesem Falle nahm ich mit der Bussole einige Richtungen auf, notirte die Zahl
 der Grade und bezeichnete später unter der Abschnittsnummer die Richtung, welche
 wir wirklich verfolgt hatten.
 
-Es ereignete sich oft, daß ich an einem Orte keinen Ab-schnittsstrich machen
+Es ereignete sich oft, daß ich an einem Orte keinen Abschnittsstrich machen
 konnte, weil uns eben Chinesen oder Mongolen beobachteten; in diesem Falle
 verlegte ich das Machen des Striches auf einen geeignetern Zeitpunkt, namentlich
 aber, wenn wir den Weg schon zurückgelegt hatten. In stark bevölkerten Gegenden
@@ -801,7 +801,7 @@ und auf der Ebene fast ohne Unterbrechung während des ganzen Frühlings
 herrschten. Die Luft war selten ruhig und auch diese Ruhe dauerte nur wenige
 Stunden. Während des Windes wurde es immer kühl und er verwandelte sich häufig
 in heftigen Sturm. In diesem Falle zeigte sich ganz der Charakter der
-mongolischen Steppe! Sandund Staubwolken und, auf Salzboden, Wolken feinen
+mongolischen Steppe! Sand und Staubwolken und, auf Salzboden, Wolken feinen
 Salzes, welche vom Uragan in die Luft erhoben wurden, verdunkelten die Sonne,
 welche dann matt, wie durch Rauch leuchtete; dann wurde es ganz dunkel, so daß
 es manchmal um die Mittagszeit nicht heller als während der Dämmerung war. Auf
@@ -1070,7 +1070,7 @@ Last verursacht leicht eine Druckwunde; es ist dies, mit einem Worte, die
 Periode der Krankheit des Kameels. Später beginnt sich der Körper mit feinen
 Haaren zu bedecken, welche den Haaren der Mäuse sehr ähnlich sind, und diese
 entwickeln sich vollständig erst gegen Ende September. Dann sind die Männchen,
-besonders die Burunen (Bullen), mit ihren laugen Mähnen unterm Halse und an den
+besonders die Burunen (Bullen), mit ihren langen Mähnen unterm Halse und an den
 Vorderfüßen, ziemlich schön.
 
 Während der Reise mit der Karawane im Winter werden die Kameele nie abgesattelt,

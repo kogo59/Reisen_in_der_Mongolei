@@ -260,7 +260,7 @@ Glaubensmeinungen aufgedrungen haben.
 
 Die Stadt Dyn-juan-in ist, wie schon gesagt, der Aufenthaltsort des regierenden
 Fürsten von Ala-schan. Sie liegt gegen 15 Kilometer westlich vom mittleren
-Theile des Ala-schaner Gebirgs— rückens und gegen 80 Kilometer von der großen
+Theile des Ala-schaner Gebirgsrückens und gegen 80 Kilometer von der großen
 chinesischen Stadt *In-sja* (von den Mongolen *Irgai* genannt), welche in Gan-su
 liegt. Die Chinesen nennen Dyn-juan-in *Wa-jan-fu*, die Mongolen aber
 *Alascha-jamin* d. h. der Regierungssitz von Ala-schan.
@@ -890,10 +890,9 @@ hin, um ihn in die Tiefe zu stürzen. Langsam löst er sich vom Mutterfelsen ab
 und eben so langsam beginnt er sich zu bewegen, aber mit jeder Secunde
 vergrößert sich die Schnelligkeit und endlich stürzt der Fels unter Pfeifen und
 Sausen mit der Schnelligkeit einer Kanonenkugel in den Abgrund, indem er auf
-seinem Wege selbst ganz respectable Bäume zersplittert. Dicht
-
-hinter dem Hauptblocke fliegen andere kleinere Steine, welche jener von ihrem
-Lager losgerissen hat, und am Ende fällt ein ganz anständiger Haufen von
+seinem Wege selbst ganz respectable Bäume zersplittert. Dicht hinter dem
+Hauptblocke fliegen andere kleinere Steine, welche jener von ihrem Lager
+losgerissen hat, und am Ende fällt ein ganz anständiger Haufen von
 Steinsplittern mit schallendem Gepolter auf den Boden der Schlucht. Das in
 diesen Thälern hervorgerufene Echo stimmt in den allgemeinen Lärm ein, die
 aufgescheuchten Säugethiere und Vögel fliehen in einen andern Theil der Schlucht

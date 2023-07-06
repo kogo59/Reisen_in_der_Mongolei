@@ -113,7 +113,7 @@ Verzweigungen des Chuan-che in seinem Nordbogen entscheiden.
 
 Wir gingen 434 Kilometer von der Ueberfähr gegenüber von Bautu bis nach der
 Stadt *Dyn-chu*, (welche auf den Karten Klapproth's und Kiepert's unterm dem
-Namen *Tschagan-subar-chan* eingetragen ist,.) und fanden als Resultat unserer
+Namen *Tschagan-subar-chan* eingetragen ist) und fanden als Resultat unserer
 Untersuchung die Thatsache, daß eine solche Verzweigung des Chuan-che im
 Nordbogen, wie sie gewöhnlich auf den Karten dargestellt wird, gar nicht
 existirt, und daß der Fluß an dieser Stelle sein Bett geändert hat.
@@ -629,7 +629,7 @@ Pilgerschaaren wallfahren.
 
 Nach einem zehntägigen Aufenthalte am See Zaidemin-nor schlugen wir unsern Weg
 stromaufwärts durch das Chuan-cheThal ein. Der erste Tagemarsch war bis an das
-Flüßchen *Churai-chundu*, der zweite bis an ein anderes, Churai—chundy, welches
+Flüßchen *Churai-chundu*, der zweite bis an ein anderes, Churai-chundy, welches
 auch das letzte war, das wir in Ordos gefunden haben. Beide Flüßchen entspringen
 im Innern der hier beschriebenen Gegend; sie sind nicht breit und nicht tief,
 fließen sehr schnell und sind sehr trübe. Ihr Wasser wird nach einem Regen,
@@ -903,18 +903,16 @@ diese Stadt haben wir nicht gehört; die Mongolen sagen nur, daß diese Stadt au
 Befehl Dscheugis-Chans erbaut worden ist.
 
 Die Sommerhitze, welche gegen die Mitte August etwas nachgelassen hatte, begann
-im dritten Drittel des Monats wieder
-
-mit der früheren Macht zu herrschen und verursachte uns während der Reise viele
-Qualen. Weungleich wir immer beim Morgengrauen aufstanden, so erforderte doch
-das Einpacken unserer Sachen, das Beladen der Kameele und gleichzeitig mit
-diesem die Zubereitung des Thees und das Trinken desselben, — ohne das ja weder
-der Mongole noch der Kasak um nichts in der Welt sich auf den Weg begeben würde,
-— zwei bis drei, ja oft noch mehr Stunden, so daß wir uns erst auf den Weg
-machten, wenn sich die Sonne schon ziemlich hoch über dem Horizonte befand. Am
-Himmel aber war häufig nicht das kleinste Wölkchen zu bemerken, und es wehte
-häufig nicht der geringste Luftzug und alles dieses diente uns als unangenehmes
-Vorzeichen eines heißen Tages.
+im dritten Drittel des Monats wieder mit der früheren Macht zu herrschen und
+verursachte uns während der Reise viele Qualen. Weungleich wir immer beim
+Morgengrauen aufstanden, so erforderte doch das Einpacken unserer Sachen, das
+Beladen der Kameele und gleichzeitig mit diesem die Zubereitung des Thees und
+das Trinken desselben, — ohne das ja weder der Mongole noch der Kasak um nichts
+in der Welt sich auf den Weg begeben würde, — zwei bis drei, ja oft noch mehr
+Stunden, so daß wir uns erst auf den Weg machten, wenn sich die Sonne schon
+ziemlich hoch über dem Horizonte befand. Am Himmel aber war häufig nicht das
+kleinste Wölkchen zu bemerken, und es wehte häufig nicht der geringste Luftzug
+und alles dieses diente uns als unangenehmes Vorzeichen eines heißen Tages.
 
 Wir hielten immer während unserer Karawanenreise eine und dieselbe Ordnung inne.
 Ich ritt mit meinem Begleiter der Karawane voran, bewerkstelligte mit ihm die
@@ -1039,7 +1037,7 @@ zieht sich am Chuan-che hinauf, nähert sich ihm immer mehr und tritt endlich an
 der Stelle, wo am entgegengesetzten Ufer die großartige Kette des Ala-schaner
 Gebirges beginnt, fast ganz dicht an das Ufer heran. (Die Mongolen behaupten,
 daß der Arbus-ula sich dem Chuan-che-Ufer bis auf fünf Kilometer nähert, an
-dessen linken Ufer sogleich der Ala—schaner Rücken beginnt.) Eine mongolische
+dessen linken Ufer sogleich der Ala-schaner Rücken beginnt.) Eine mongolische
 Legende sagt, daß einer der Felsengipfel des Arbus-ula, der platt ist wie ein
 Tisch, dem Schmiede Dschengis-Chans als Amboß gedient hat. Dieser Schmied war
 von ungewöhnlichem Wuchse, so daß er sitzend noch bei Weitem den Gipfel

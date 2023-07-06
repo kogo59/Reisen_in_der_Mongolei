@@ -1432,7 +1432,7 @@ durch starke Fröste, Schneelosigkeit und Staubstürme.
 
 Trotzdem diese Gegend südlicher liegt, als die wärmsten Gegenden Europas,
 erinnerte der Frost hier sehr oft an den hohen Norden. Während der Nächte hielt
-der Frost immer an und erreichte eine Stärke von — 31,0° C., ja wahrscheinlich
+der Frost immer an und erreichte eine Stärke von —31,0° C., ja wahrscheinlich
 noch mehr, was ich jedoch nicht genau bestimmen kann, da mein Minimalthermometer
 zerbrochen war und die Temperatur der Nacht nur gegen Sonnenaufgang beobachtet
 wurde; nur selten und zwar wenn der Himmel bewölkt war, verringerte sich der

@@ -506,19 +506,17 @@ Theile der Provinz Gan-su befinden, d. h. im Norden und Nordosten des Sees
 Kuku-nor liegen.
 
 Der nicht breite Kessel des Alpensees ist von allen Seiten von Gebirgen umringt,
-welche unmittelbare Verlängerungen der
-
-massiven Rücken sind, die den nordöstlichen Winkel Tibets und die vom obern
-Laufe des gelben Flusses bewässerte Gegend anfüllen. Von hier, d. h. von dem
-obern Chuan-che aus, umgeben die Bergmassive in doppelten Ketten von Süden und
-Norden den See Kuku-nor und ziehen sich noch weit, nach den Aussagen der
-Bewohner der Umgend bis auf 500 Kilometer, gegen Westen, indem sie gleichsam
-eine Halbinsel bilden, die im Süden durch die Salzmoräste Tsajdaus, im Norden
-durch die weiten Ebenen der Gobi scharf begrenzt wird. Gegen diese letzteren
-fallen die Gan-sugebirge schroff und steil ab, während hinter dieser schroffen
-Felsenwand eine Hochebene liegt, die sich durch Kuku-nor und Tsajdam an den
-Rücken des Burchan-Buddha hinzieht, der den Nordrand des noch höher liegenden
-tibetanischen Plateaus bildet.
+welche unmittelbare Verlängerungen der massiven Rücken sind, die den
+nordöstlichen Winkel Tibets und die vom obern Laufe des gelben Flusses
+bewässerte Gegend anfüllen. Von hier, d. h. von dem obern Chuan-che aus, umgeben
+die Bergmassive in doppelten Ketten von Süden und Norden den See Kuku-nor und
+ziehen sich noch weit, nach den Aussagen der Bewohner der Umgegend bis auf 500
+Kilometer, gegen Westen, indem sie gleichsam eine Halbinsel bilden, die im Süden
+durch die Salzmoräste Tsajdaus, im Norden durch die weiten Ebenen der Gobi
+scharf begrenzt wird. Gegen diese letzteren fallen die Gan-su-Gebirge schroff und
+steil ab, während hinter dieser schroffen Felsenwand eine Hochebene liegt, die
+sich durch Kuku-nor und Tsajdam an den Rücken des Burchan-Buddha hinzieht, der
+den Nordrand des noch höher liegenden tibetanischen Plateaus bildet.
 
 Was die von mir durchforschten Gebirge betrifft, so sehen wir, daß sie drei
 unter einander parallele Rücken bilden. Einer von ihnen umsäumt die Hochebene
@@ -533,7 +531,7 @@ strömt in gerader Richtung nach Norden, bewässert anfänglich den kultivirten
 Boden bei den Städten Gan-Tschen und Su-Tscheu, fließt dann in die Wüste und
 fällt in den See *Sogo-nor*. Es ist möglich, daß sich alle drei Gebirgsrücken in
 der Quellengegend der beiden Flüsse vereinen, oder auch eine neue Vereinigung
-bilden; jedenfalls aber werden die Gan-sugebirge westlich von den Quellen des
+bilden; jedenfalls aber werden die Gan-su-Gebirge westlich von den Quellen des
 Etzsyne-gol und Tollai-gol niedriger, kleiner und enden bald, vielleicht als
 kleine sichtbare Rücken, vielleicht aber auch verflacht, in der gemeinsamen
 Hochebene der Gobi.
@@ -673,12 +671,10 @@ Weiter begegnet man einer *baumartigen Wachholderspecies* (Juniperus sp,
 [arborea?]), welche oft eine Höhe von mehr als sechs Meter und einen Durchmesser
 von drei bis vier Decimeter erreicht. Wenn wir die hier aufgeführten Baumspecien
 hauptsächlich am Nordabhange der Gebirge finden, so begegnen wir dem
-Riesenstrauche größtentheils auf den sonnigen Süd-
-
-abhängen und er steigt hier bis in die Region der Alpensträucher d. h. bis nahe
-zu 4000 Meter absoluter Höhe hinauf. Tanguten wie Mongolen halten diesen
-Wachholder für heilig und benutzen seine Zweige zum Räuchern während ihrer
-Andachten.
+Riesenstrauche größtentheils auf den sonnigen Südabhängen und er steigt hier bis
+in die Region der Alpensträucher d. h. bis nahe zu 4000 Meter absoluter Höhe
+hinauf. Tanguten wie Mongolen halten diesen Wachholder für heilig und benutzen
+seine Zweige zum Räuchern während ihrer Andachten.
 
 Die verschiedenen Sträucherspecien, welche in diesen Wäldern wachsen, entwickeln
 sich, wie kaum anders vorauszusetzen ist, vorzüglich freudig in den höheren
@@ -788,7 +784,7 @@ Platze sein, als bis jetzt kein Europäer sie in ihrem Vaterlande beobachtet hat
 Der Rhabarber hat an der Wurzel drei bis vier große, dunkelgrüne, lappig
 gespaltene Blätter. (Das größte von uns gefundene Blatt war 63 Centimeter lang
 und 1 Meter breit). Zwischen diesen Blättern erhebt sich der Blüthenstiel bis zu
-einer Höhe von 2.20 bis 3,16 Meter; seine Dicke beträgt bis 4 Centimeter. Ein
+einer Höhe von 2,20 bis 3,16 Meter; seine Dicke beträgt bis 4 Centimeter. Ein
 Exemplar von diesen Dimensionen ist schon ganz entwickelt Ganz alte Pflanzen
 haben manchmal zehn, ja noch mehr Blätter, doch haben sie in diesem Falle immer
 einige Blüthenstiele, so daß auf jeden der letztern immer nur drei oder vier
@@ -1017,7 +1013,7 @@ von der in Sibirien lebenden Species verschieden ist.
 Auf die soeben angeführten Specien beschränkt sich die Zahl der Wiederkäuer und
 Nager, welche in diesen Gebirgen leben; es verbleibt also noch die Aufzählung
 der Raubthiere, welche hier ihren Wohnsitz aufgeschlagen haben. Vom Geschlechte
-der Katzen lebt nur die *wilde Katze* (Felis sp.) im Gan-suGebirge; Tiger und
+der Katzen lebt nur die *wilde Katze* (Felis sp.) im Gan-su-Gebirge; Tiger und
 Leoparden giebt es hier durchaus nicht. Weiter trifft man hier eine
 *Bären*species (Ursus sp.), eine *Marder*species (Mustela sp.), eine
 *Dachs*species (Meles sp.), den Fuchs (Canis vulpes) und zwei Wolfspecien: den
@@ -1046,7 +1042,7 @@ Folgende Tafel stellt das Verhältniß übersichtlich dar.
 |7. Schwimmvögel (Natatores)| 0| 4| 4|
 |Summa| 106| 18| 12|
 
-Wenn man die Zahl der Vogelgattungen, welche im Gan-suGebirge leben, mit der,
+Wenn man die Zahl der Vogelgattungen, welche im Gan-su-Gebirge leben, mit der,
 welche sich in der Mongolei aufhalten, vergleicht, so bemerkt man, daß beide
 Gegenden, trotzdem sie so nahe bei einander liegen, sich durch eine verschiedene
 Vogelwelt charakterisiren. Diese Erscheinung, wie ja auch die reichere
@@ -1411,7 +1407,7 @@ Aufenthalt in der Nähe von Tscheibsen. „Mit diesen Leuten,“ sagte der Donir
 Mongolen, „braucht Ihr die Räuber nicht zu fürchten. Seht, wir sind unserer 2000
 Mann und schließen uns in unserm Kloster ein, während sie, vier Mann an der
 Zahl, im freien Felde stehn und trotzdem wagt es Niemand sich ihnen zu nahen.
-Bedenkt doch nur selbst, ob gewöhnliche Meuschen so etwas wagen würden. Nein,
+Bedenkt doch nur selbst, ob gewöhnliche Menschen so etwas wagen würden. Nein,
 die Russen wissen alles voraus und ihr Führer ist unbedingt ein großer Zauberer,
 oder ein großer Heiliger.“ Diese Argumente, im Vereine mit der verlockenden
 Summe von dreißig Lan, besiegten endlich die unentschlüssigen Mongolen aus
