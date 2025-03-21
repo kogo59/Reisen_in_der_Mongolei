@@ -1152,12 +1152,6 @@ sie also dem himmlischen Reiche immer weniger gefährlich werden.
 
 :::
 
-:::: align-center
-****
-::::
-
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^0200]: [Ihrer geographischen Lage nach nimmt die heutige Mongolei die Fläche ein, welche von den Quellen des Irtysch im Westen bis zur Mandschurei im Osten und von den Grenzen Sibiriens im Norden bis an die große Mauer und die muhamedanischen Länder am Tjan-Schan im Süden reicht. Die Südgrenze reicht übrigens noch jenseits der großen Mauer und in das Bassin des Sees Kuku-nor; sie beschreibt einen großen Bogen nach Süden.]{.footnote}
 

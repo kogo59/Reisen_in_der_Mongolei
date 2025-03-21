@@ -152,12 +152,6 @@ St. Petersburg, 1. Januar 1875.
 
 :::
 
-:::: align-center
-****
-::::
-
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^0001]: [*Kuku-nor*: vergleiche [Qinghai-See](https://de.wikipedia.org/wiki/Qinghai-See)]{.footnote}
 

@@ -1606,5 +1606,3 @@ Hauptstadt Tibets zu gelangen.
 ****
 ::::
 
-
-#### **Anmerkungen** {.break-before .unnumbered}

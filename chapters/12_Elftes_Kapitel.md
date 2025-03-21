@@ -1003,12 +1003,6 @@ untersuchen.
 
 :::
 
-:::: align-center
-****
-::::
-
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^1100]: [*Kuku-nor*: vergleiche [Qinghai-See](https://de.wikipedia.org/wiki/Qinghai-See)]{.footnote}
 

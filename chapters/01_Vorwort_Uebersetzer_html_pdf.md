@@ -901,13 +901,6 @@ des Museums für Völkerkunde in Leipzig.
 * [Mongolen im Gebet bei einem „Obo“](#b482) (Tafel)
 
 
-:::: align-center
-****
-::::
-
-
-#### **Anmerkungen** {.break-before .unnumbered}
-
 [^0006]: [*Oscar Peschel*: vergleiche [Oscar Peschel](https://de.wikipedia.org/wiki/Oscar_Peschel)]{.footnote}
 
 [^0007]: [Der im Texte angeregte Gegenstand nöthigt mich, gegen das in neuerer Zeit seitens der Regierung beliebte Umtaufen der Ortsnamen in der Provinz Posen meine Stimme zu erheben und jeden, der es ehrlich mit der Forschung der Vorgeschichte der Menschheit meint, aufzufordern, hiergegen zu protestiren, um so mehr, als ja gerade Herr Regierungspräsident von *Segnern* in Bromberg bis jetzt nicht durch sein eigenes Beispiel bewiesen hat, daß, um gut deutsch zu sein, es nothwendig ist, den historischen Namen zu unterdrücken, denn sonst hätte er doch schon längst sein, seinem Vorfahren vom polnischen Könige Stanislaus August verliehenes Adelsdiplom vernichtet, auch die Familie seiner Frau, namentlich seinen Schwager von Jastrzebski bewogen, seinen echt polnischen Namen abzulegen und ihn etwa in Habichtmann zu übersetzen. Nur äußerste Unfähigkeit kann sagen, daß dieses Umtaufen dem Deutschen die Bezeichnung der Orte erleichtern soll; hierzu giebt es andere, rationellere Mittel, zu denen ich u. A. das richtige Ausdrücken der polnischen Laute durch deutsche Buchstaben rechnen muß. Ein Umtaufen der polnischen Ortschaften macht diese noch nicht deutsch, wie der slavische Name *Grabow* (von Grab, die Weißbuche), Rostock (von Rostoka, roztoczyé. ausbreiten) u. v. A. in Meklenburg, Brandenburg und Schlesien nicht slavisch macht.]{.footnote}

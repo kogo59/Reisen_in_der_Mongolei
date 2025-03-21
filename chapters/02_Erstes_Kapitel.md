@@ -1207,9 +1207,6 @@ und in die berühmte Hauptstadt des Ostens einzieht.
 ****
 ::::
 
-
-#### **Anmerkungen** {.break-before .unnumbered}
-
 [^0100]: [*Kiachta*: vergleiche [Kjachta](https://de.wikipedia.org/wiki/Kjachta)]{.footnote}
 
 [^0101]: [„Gol“ bedeutet Fluß und wird immer dem Namen des Flusses hinzugefügt, ebenso wie das Wort „noor“ (richtiger nur) See zum Namen des Sees und das Wort „daban“ (Rücken) oder „ulla“, Berg, zu dem des Höhenzuges oder Berges.]{.footnote}

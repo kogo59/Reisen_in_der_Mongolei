@@ -1814,4 +1814,3 @@ Lob-nor bieten.
 :::
 
 
-#### **Anmerkungen** {.break-before .unnumbered}

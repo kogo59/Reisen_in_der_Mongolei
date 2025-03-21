@@ -1267,12 +1267,6 @@ Bezeichnung existirt, als die eines „überseeischen Teufels“.
 
 :::
 
-:::: align-center
-****
-::::
-
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^0500]: [*Ordos*: vergleiche [Ordos-Plateau](https://de.wikipedia.org/wiki/Ordos-Plateau)]{.footnote}
 

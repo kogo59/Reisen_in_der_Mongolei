@@ -901,12 +901,6 @@ des Museums für Völkerkunde in Leipzig.
 * [Mongolen im Gebet bei einem „Obo“](ch017.xhtml#b482) (Tafel)
 
 
-:::: align-center
-****
-::::
-
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^0006]: [*Oscar Peschel*: vergleiche [Oscar Peschel](https://de.wikipedia.org/wiki/Oscar_Peschel)]{.footnote}
 

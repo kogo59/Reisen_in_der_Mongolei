@@ -1003,13 +1003,6 @@ Jakub-Bek^[^1001]^ von Kaschgar.
 
 :::
 
-:::: align-center
-****
-::::
-
-
-#### **Anmerkungen** {.break-before .unnumbered}
-
 [^1000]: [*Palladi*: vergleiche [Pjotr Iwanowitsch Kafarow](https://de.wikipedia.org/wiki/Pjotr_Iwanowitsch_Kafarow)]{.footnote}
 
 [^1001]: [*Jakub-Bek*: vergleiche [Jakub Bek](https://de.wikipedia.org/wiki/Jakub_Bek)]{.footnote}

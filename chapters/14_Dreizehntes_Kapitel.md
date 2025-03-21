@@ -897,6 +897,3 @@ Pflanzen- als Thierwelt gemacht haben.
 :::: align-center
 ****
 ::::
-
-
-#### **Anmerkungen** {.break-before .unnumbered}

@@ -891,11 +891,6 @@ unzugänglichsten Gegenden Innerasiens zu erforschen.
 
 :::
 
-:::: align-center
-****
-::::
-
-#### **Anmerkungen** {.break-before .unnumbered}
 
 [^1500]: [Ich kann der Curiosität wegen nicht verschweigen, was sich mit einem Briefe in einer Gouvernementsstadt unseres Vaterlandes ereignete. Auf der Adresse war geschrieben: „An N. N. in Peking über Kiachta.“ Das Wort „Peking“ war angestrichen, wahrscheinlich durch die Hand des Postmeisters, und darunter war mit großen Buchstaben geschrieben: „es giebt keine Stadt Peking, deshalb nur bis Kiachta zu senden.“]{.footnote}
 

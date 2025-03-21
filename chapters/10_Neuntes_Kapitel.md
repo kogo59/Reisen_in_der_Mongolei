@@ -1610,11 +1610,4 @@ labten uns an seinen wundervollen, tiefblauen Wogen! . . .
 
 :::
 
-:::: align-center
-****
-::::
-
-
-#### **Anmerkungen** {.break-before .unnumbered}
-
 [^0900]: [*Nan-schan*: vergleiche [Nan Shan](https://de.wikipedia.org/wiki/Nan_Shan)]{.footnote}

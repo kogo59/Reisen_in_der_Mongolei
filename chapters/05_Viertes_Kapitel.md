@@ -1364,13 +1364,6 @@ Alles sehr bald ausgeladen und wir befanden uns in — Ordos.
 
 :::
 
-:::: align-center
-****
-::::
-
-
-#### **Anmerkungen** {.break-before .unnumbered}
-
 [^0400]: [*Argali*: vergleiche [Argali](https://de.wikipedia.org/wiki/Kjachta)]{.footnote}
 
 [^0401]: [*Bautu*: vergleiche [Baotou](https://en.wikipedia.org/wiki/Baotou)]{.footnote}

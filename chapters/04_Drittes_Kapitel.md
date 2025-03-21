@@ -1196,13 +1196,6 @@ wir die Bäume bereits mit Blättern bedeckt und wir sammelten in den benachbart
 Bergen gegen dreißig Specien blühender Pflanzen.
 :::
 
-:::: align-center
-****
-::::
-
-
-#### **Anmerkungen** {.break-before .unnumbered}
-
 [^0300]: [Das Wort „Bej-tzsin“ heißt im Chinesischen „die nördliche Hauptstadt“. Im südchinesischen Accente heißt es „Be-gin“; hieraus haben wahrscheinlich die Europäer „Peking“ gemacht.]{.footnote}
 
 [^0301]: [Man sagt, daß sich die Zahl der Bettler in Peking auf 40,000 belaufe; sie haben ihr besonderes Oberhaupt (König), welches von den Kaufleuten eine bestimmte Abgabe erhebt.]{.footnote}

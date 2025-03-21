@@ -1017,13 +1017,6 @@ Rückweg antreten.
 
 :::
 
-:::: align-center
-****
-::::
-
-
-#### **Anmerkungen** {.break-before .unnumbered}
-
 [^0600]: [*Ala-schan*: vergleiche [Helan Gebirge](https://en.wikipedia.org/wiki/Helan_Mountains)]{.footnote}
 
 [^0601]: [Im Juli 1870 bat sich der Pöbel in Tien-tsin thatsächlich empört und 20 Franzosen und 3 Russen ermordet; die letztern erlagen zufällig diesem Geschicke. Diejenigen, welche diesen Ausstand hervorgerufen haben, spiegelten dem Volke vor, daß die französischen barmherzigen Schwestern, welche Kinder zu sich nehmen, um sie zu erziehen, die Augen ausstechen, um die zur Anfertigung von Photographien nothwendige Flüssigkeit zu erhalten. Das Gerücht hierüber verbreitete sich, wie man sieht, in ganz China und wurde gern geglaubt.]{.footnote}

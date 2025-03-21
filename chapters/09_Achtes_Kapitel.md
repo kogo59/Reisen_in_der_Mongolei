@@ -1010,5 +1010,3 @@ Gegenden, führen.
 ::::
 
 
-#### **Anmerkungen** {.break-before .unnumbered}
-
